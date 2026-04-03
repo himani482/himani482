@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himani</h1>
 <h3 align="center">Software Engineer passionate about building autonomous systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himani4&label=Profile%20views&color=0e75b6&style=flat" alt="himani4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himani4&label=Profile%20views&color=0e75b6&style=flat" alt="himani482" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himani4" alt="himani4" /></a> </p>
 
