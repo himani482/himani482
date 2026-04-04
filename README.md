@@ -32,11 +32,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himani4&theme=tokyonight&hide_border=true" alt="himani4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himani482&theme=tokyonight&hide_border=true" alt="himani4" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/himani4/himani4/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/himani4/himani482/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 <p align="center">
