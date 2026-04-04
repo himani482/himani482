@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/himani4/himani482/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/himani482/himani482/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 <p align="center">
