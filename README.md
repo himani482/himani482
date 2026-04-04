@@ -13,9 +13,16 @@
 - 🌱 I'm currently learning **MCP (Model Context Protocol) to connect AI models with real-world tools & data.**
 - 📫 How to reach me: **bhaisorahimani2@gmail.com**
 - ⚡ Fun fact: **I talk to LLMs more than humans on most days 🤝 — and honestly, the LLMs are catching up.**
+  
 
 ---
+<p align="center">
+  <a href="https://himani482.github.io/HimaniBhaisora.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit%20Now-a020f0?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
+---
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himani-bhaisora-607456208" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="himani-bhaisora-607456208" height="30" width="40" /></a>
