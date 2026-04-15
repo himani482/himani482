@@ -22,7 +22,7 @@
   </a>
 </p>
 
-
+---
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himani-bhaisora-607456208" target="blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="30" /></a>
@@ -30,7 +30,6 @@
 <a href="https://www.hackerrank.com/profile/bhaisorahimani2" target="blank"><img src="https://img.icons8.com/?size=100&id=bcdiBt8pFXfZ&format=png&color=000000" height="30" /></a>
 <a href="https://www.leetcode.com/himanibhaisora" target="blank"><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" height="30" /></a>
 </p>
----
 <!-- <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himani-bhaisora-607456208" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="himani-bhaisora-607456208" height="30" width="40" /></a>
