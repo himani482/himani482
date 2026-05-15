@@ -76,9 +76,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himani482/himani482/output/github-contribution-grid-pacman-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himani482/himani482/output/github-contribution-grid-pacman.svg" />
-    <img alt="pacman animation" src="https://raw.githubusercontent.com/himani482/himani482/output/github-contribution-grid-pacman.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himani482/himani482/output/github-contribution-grid-galaga-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himani482/himani482/output/github-contribution-grid-galaga.svg" />
+    <img alt="galaga animation" src="https://raw.githubusercontent.com/himani482/himani482/output/github-contribution-grid-galaga.svg" />
   </picture>
 </p>
 
