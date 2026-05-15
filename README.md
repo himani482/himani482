@@ -75,7 +75,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/himani482/himani482/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himani482/himani482/output/github-contribution-grid-pacman-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himani482/himani482/output/github-contribution-grid-pacman.svg" />
+    <img alt="pacman animation" src="https://raw.githubusercontent.com/himani482/himani482/output/github-contribution-grid-pacman.svg" />
+  </picture>
 </p>
 
 <p align="center">
