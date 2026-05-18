@@ -76,9 +76,13 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himani482/himani482/output/github-contribution-grid-galaga-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himani482/himani482/output/github-contribution-grid-galaga.svg" />
-    <img alt="galaga animation" src="https://raw.githubusercontent.com/himani482/himani482/output/github-contribution-grid-galaga.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himani482/himani482/output/galaga-contribution-graph-dark.svg
+.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himani482/himani482/output/galaga-contribution-graph-dark.svg
+
+" />
+    <img alt="galaga animation" src="https://raw.githubusercontent.com/himani482/himani482/output/galaga-contribution-graph-dark.svg
+" />
   </picture>
 </p>
 
